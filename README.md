@@ -1,7 +1,7 @@
 
 # JDeezer
 
-Is a Java library that allows you to interact with the Deezer API. You can search for tracks, albums, and artists, as well as access information about playlists and users.
+Is a Java library that provides access to the Deezer API, allowing developers to search for music tracks, albums, and artists, as well as access information about playlists and users. The library also includes functionality to download music tracks from the Deezer platform.
 
 JDeezer is a remake of the PyDeezer library for Python, with a similar API and functionality.
 
