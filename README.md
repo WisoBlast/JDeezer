@@ -29,3 +29,6 @@ public class Main {
 
 ## Installation
 To use JDeezer in your Java project, you will need to add the JDeezer jar file to your project's classpath. You can do this by downloading the latest release from the JDeezer releases page and adding it to your project's dependencies.
+
+## Kotlin Version
+A Kotlin version of JDeezer is currently in development, which will provide a more idiomatic interface for Kotlin developers, as well as seamless integration with Android apps. Stay tuned for updates!
