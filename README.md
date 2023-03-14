@@ -21,9 +21,7 @@ public class Main {
         deezer.download_track(download_dir, "MP3_128", null);
         //Search
         JSONObject popularPlaylists = deezer.get_popular_playlists();
-        System.out.println(popularPlaylists);
         JSONObject getSuggestedInfo = deezer.SearchByQuery("never gonna give you up"); //replace it with the name of the artist or song you want to search for.
-        System.out.println(getSuggestedInfo);
 ```
 
 
