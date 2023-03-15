@@ -2,11 +2,38 @@ package com.tools;
 
 import com.google.common.base.CharMatcher;
 import com.google.common.primitives.Bytes;
-
 import javax.xml.bind.DatatypeConverter;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.ArrayList;
+
+
+//
+//                           M
+//  ::..                     |                    ..:::
+//   .....                   |                  ......
+//    .••••::.               |               :••••••.
+//     .:•••••:.             |            :::••••••.
+//       .•••••:...          |         .::.••••••.
+//         .::•••••::..      |       :..••••••..
+//            .:•••••••::.........::••••••:..
+//              ..::::••••.•••••••.•••••••:.
+//                ...:•••••••.•••••••••::.
+//                  .:..••.••••••.••••..
+//  |---------------.:•••••••••••••••••.---------------|
+//              .:•:•••.••••••.•••••••.
+//              .••••••••••••••••••••••••:.
+//            .:••••••••••::..::.::••••••••:.
+//          .::••••••::.     |       .::•••:::.
+//         .:••••••..        |          :••••••••.
+//       .:••••:...          |           ..•••••••:.
+//     ..:••::..             |              :.•••••••.
+//    .:•....                |               ...::.:••.
+//   ...:..                  |                   :...:••.
+//  :::.                     |                       ..::
+//                          _|_
+//
+
 
 public class util {
     public String clean_filename(String filename){
